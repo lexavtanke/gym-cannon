@@ -1,0 +1,9 @@
+click==8.1.7
+gym==0.26.2
+gym-notices==0.0.8
+gymnasium==0.29.1
+numpy==1.26.4
+stable-baselines3==2.2.1
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+torch==2.2.1
